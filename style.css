@@ -1,0 +1,44 @@
+#container{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40vh;
+    margin-bottom:60vh;
+}
+
+#container h1{
+margin-left:40%;
+}
+#inputContainer{
+    margin-left:42%;
+    font-size:1.2em;
+    margin-right:auto;
+}
+#inputContainer input{
+    font-size: 1.0em;
+}
+#optionsContainer{
+    font-size: 1.2em;
+    margin-top:15px;
+    margin-left:42%;
+}
+
+#container button{
+    margin-top:30px;
+    margin-left:42%;
+    font-size:1.8em;
+    border:none;
+    border-radius:7px;
+    background-color:hsl(348, 64%, 46%);
+    color:white;
+}
+
+#container button:hover{
+    cursor:pointer;
+    background-color:hsl(348, 80%, 56%)
+}
+
+#resultContainer{
+    font-size:1.5em;
+    margin-left:40%;
+    margin-top:15px;
+   
+}
